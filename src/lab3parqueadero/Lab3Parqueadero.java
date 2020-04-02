@@ -19,7 +19,7 @@ public class Lab3Parqueadero {
     public static void main(String[] args) {
         // TODO code application logic here
          ArrayList<String> nombreEstudiantes= new ArrayList<String>();
-//        chocoktispis
+        
         
         nombreEstudiantes.add("Estudiante 1");
         nombreEstudiantes.add("Estudiante 2");
